@@ -4,11 +4,11 @@ Hi 👋 My name is Supachok
 computer engineering student @ Chulalongkorn University
 -------------------------------------------------------
 
-I'm interested in becoming a full stack web developer. I have learned bootstrap on the frontend side and express.js on the backend side. I also have learned about user authentication using passport.js and OAuth.
+I'm interested in becoming a full stack software engineer.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on web development project
+* 🧠  I'm learning new things everyday
+* 🤝  I'm open to collaborating on software development project
 * ⚡  I have decent data structure and algorithm knowledge (got A in both Algorithm and Data structure classes)
 
 ### Skills
