@@ -9,7 +9,6 @@ I'm interested in becoming a full stack software engineer.
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning new things everyday
 * 🤝  I'm open to collaborating on software development project
-* ⚡  I have decent data structure and algorithm knowledge (got A in both Algorithm and Data structure classes)
 
 ### Skills
 
